@@ -12,3 +12,4 @@
 
 - WEEK 1: 区块链的基础知识
   - [MIT 区块链课程](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/video_galleries/video-lectures/)
+  - [白皮书](https://bitcoin.org/files/bitcoin-paper/bitcoin_zh_cn.pdf)
